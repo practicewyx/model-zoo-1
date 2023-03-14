@@ -42,10 +42,23 @@ yamllint -c ./.yaml-lint.yml .
 markdownlint '**/*.md'
 python3 .github/workflows/check.py
 ```
-
 ## Model navigation table
 
  The following are all models included in this project.
+
+ <style>
+  table{
+    border-left:1px solid #000000;border-top:1px solid #000000;
+    width: 100%;
+    word-wrap:break-word; word-break:break-all;
+  }
+  table th{
+  text-align:center;
+  }
+  table th,td{
+    border-right:1px solid #000000;border-bottom:1px solid #000000;
+  }
+</style>
 
 <table>
     <tr>

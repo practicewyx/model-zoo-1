@@ -46,20 +46,6 @@ python3 .github/workflows/check.py
 
  The following are all models included in this project.
 
- <style>
-  table{
-    border-left:1px solid #000000;border-top:1px solid #000000;
-    width: 100%;
-    word-wrap:break-word; word-break:break-all;
-  }
-  table th{
-  text-align:center;
-  }
-  table th,td{
-    border-right:1px solid #000000;border-bottom:1px solid #000000;
-  }
-</style>
-
 <table>
     <tr>
         <td colspan="4"> <img width=200/>vision</td>
@@ -619,5 +605,4 @@ python3 .github/workflows/check.py
         <td>*</td>
         <td></td>
     </tr>
-    
 </table>

@@ -44,11 +44,7 @@ python3 .github/workflows/check.py
 ```
 ## Model navigation table
 
- The following are all models included in this project.1
-
- |1|2|
- |:--:|:--:|
- |test|markdown|
+ The following are all models included in this project.
 
 <table>
     <tr>

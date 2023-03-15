@@ -46,6 +46,10 @@ python3 .github/workflows/check.py
 
  The following are all models included in this project.1
 
+ |1|2|
+ |:--:|:--:|
+ |test|markdown|
+
 <table>
     <tr>
         <td colspan="4"> <img width=200/>vision</td>
